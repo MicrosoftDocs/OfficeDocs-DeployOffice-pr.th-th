@@ -3,7 +3,7 @@ title: ข้อมูลการวินิจฉัยเพิ่มเต�
 ms.author: danbrown
 author: DHB-MSFT
 manager: laurawi
-ms.audience: ITPro
+audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
 localization_priority: Priority
@@ -13,12 +13,12 @@ ms.custom:
 - Ent_Office_Privacy
 description: ให้ข้อมูลแก่ผู้ดูแลระบบ Office เกี่ยวกับข้อมูลการวินิจฉัยเพิ่มเติมใน Office รวมถึงตัวอย่างเหตุการณ์บางอย่าง
 hideEdit: true
-ms.openlocfilehash: 1df576e8f5f1b3ed9fff11651ff4dd2b28d47229
-ms.sourcegitcommit: b3fd057154853fc588d0e83b4d632b6e9a051a3c
+ms.openlocfilehash: 852c53ad208cf02150de2e64e9e55d69015dda14
+ms.sourcegitcommit: 3f5de6281b8e92c6c41a800f4374211188460320
 ms.translationtype: HT
 ms.contentlocale: th-TH
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32435878"
+ms.lasthandoff: 06/04/2019
+ms.locfileid: "34701204"
 ---
 # <a name="optional-diagnostic-data-for-office"></a>ข้อมูลการวินิจฉัยเพิ่มเติมสำหรับ Office
 
