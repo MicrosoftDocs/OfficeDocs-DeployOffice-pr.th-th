@@ -13,12 +13,12 @@ ms.custom:
 - Ent_Office_Privacy
 description: ให้ข้อมูลแก่ผู้ดูแลระบบ Office เกี่ยวกับข้อมูลการวินิจฉัยเพิ่มเติมใน Office รวมถึงตัวอย่างเหตุการณ์บางอย่าง
 hideEdit: true
-ms.openlocfilehash: cf3a2488d985dd238456e86466688036c0c61ccb
-ms.sourcegitcommit: e6135e9937ef07785f0ce0eb6282ceece401f96e
+ms.openlocfilehash: e4b42e97d7d954a968ad2a1366c6f64235c1d7f0
+ms.sourcegitcommit: 0fd23324ba1364fa1f8dd1578adf25946adde90f
 ms.translationtype: HT
 ms.contentlocale: th-TH
-ms.lasthandoff: 07/02/2019
-ms.locfileid: "35430106"
+ms.lasthandoff: 08/07/2019
+ms.locfileid: "36239025"
 ---
 # <a name="optional-diagnostic-data-for-office"></a>ข้อมูลการวินิจฉัยเพิ่มเติมสำหรับ Office
 
@@ -27,6 +27,8 @@ ms.locfileid: "35430106"
 > - Office 365 ProPlus และ Office 365 Business
 > - Office 365 Personal, Office 365 Home หรือ Office เวอร์ชันอื่นที่เป็นส่วนหนึ่งของการสมัครใช้งาน Office 365
 > - Project และ Visio ที่มีแผนการสมัครใช้งาน เช่น แผน Project Online Professional หรือ Visio Online Plan 2
+>
+> ข้อมูลยังใช้กับเวอร์ชัน 16.28 หรือใหม่กว่าของแอปพลิเคชัน Office for Mac ดังต่อไปนี้: Excel, Outlook, OneNote, PowerPoint และ Word
 
 ข้อมูลการวินิจฉัยมีไว้เพื่อรักษาความปลอดภัย อัปเดต ตรวจหา วินิจฉัย และแก้ไขปัญหาใน Office รวมถึงการปรับปรุงผลิตภัณฑ์ด้วย ข้อมูลนี้จะไม่มีชื่อหรือที่อยู่อีเมลของผู้ใช้ เนื้อหาไฟล์ของผู้ใช้ หรือข้อมูลเกี่ยวกับแอปที่ไม่เกี่ยวข้องกับ Office
 
@@ -47,6 +49,7 @@ ms.locfileid: "35430106"
 
 - [ภาพรวมของการควบคุมความเป็นส่วนตัวของ Office 365 ProPlus](overview-privacy-controls.md)
 - [ใช้การตั้งค่านโยบายเพื่อจัดการการควบคุมความเป็นส่วนตัวของ Office 365 ProPlus](manage-privacy-controls.md)
+- [ใช้การกำหนดลักษณะเพื่อจัดการการควบคุมความเป็นส่วนตัวสำหรับ Office for Mac](mac-privacy-preferences.md)
 
 ## <a name="categories-of-optional-diagnostic-data"></a>ประเภทของข้อมูลการวินิจฉัยเพิ่มเติม
 
