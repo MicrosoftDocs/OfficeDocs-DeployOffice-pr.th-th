@@ -13,12 +13,12 @@ ms.custom:
 - Ent_Office_Privacy
 description: ให้ข้อมูลผู้ดูแลระบบ Office เกี่ยวกับประสบการณ์ใช้งานที่เชื่อมต่อสำหรับเลือกเพิ่มเติม รวมถึงข้อกำหนดการใช้ที่นำไปใช้
 hideEdit: true
-ms.openlocfilehash: e20a2cd70b8c5fbc47abac7288627cd2783855e7
-ms.sourcegitcommit: 0fd23324ba1364fa1f8dd1578adf25946adde90f
+ms.openlocfilehash: c3d6489603ff5cdc5f7a0ea4f187fb24438aeb35
+ms.sourcegitcommit: 02c4120c0b10bfe378d21d60699ae49aaef97834
 ms.translationtype: HT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/07/2019
-ms.locfileid: "36239154"
+ms.lasthandoff: 10/15/2019
+ms.locfileid: "37510099"
 ---
 # <a name="overview-of-optional-connected-experiences-in-office"></a>ภาพรวมของประสบการณ์ใช้งานที่เชื่อมต่อสำหรับเลือกเพิ่มเติมใน Office
 
@@ -28,6 +28,7 @@ ms.locfileid: "36239154"
 > ถ้าคุณเป็นผู้ดูแลระบบ ให้ดูบทความต่อไปนี้เพื่อเรียนรู้วิธีการให้หรือจำกัดความสามารถของผู้ใช้ของคุณในการใช้งานการเชื่อมต่อที่ไม่จำเป็น:
 > - [ใช้การตั้งค่านโยบายเพื่อจัดการการควบคุมความเป็นส่วนตัวสำหรับ Office 365 ProPlus](manage-privacy-controls.md)
 > - [ใช้การกำหนดลักษณะเพื่อจัดการการควบคุมความเป็นส่วนตัวสำหรับ Office for Mac](mac-privacy-preferences.md)
+> - [ใช้การกำหนดลักษณะเพื่อจัดการการควบคุมความเป็นส่วนตัวสำหรับ Office บนอุปกรณ์ iOS](ios-privacy-preferences.md)
 
 ### <a name="if-you-use-these-services-what-terms-of-use-do-you-need-to-agree-to"></a>ถ้าคุณใช้บริการเหล่านี้ คุณต้องทำตามข้อกำหนดการใช้ข้อไหน
 
