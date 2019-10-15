@@ -2,6 +2,7 @@
 ## [ภาพรวมของการควบคุมความเป็นส่วนตัว](overview-privacy-controls.md)
 ## [จัดการการควบคุมความเป็นส่วนตัวด้วยการตั้งค่านโยบาย](manage-privacy-controls.md)
 ## [จัดการการควบคุมความเป็นส่วนตัวด้วยการกำหนดลักษณะ (Mac)](mac-privacy-preferences.md)
+## [จัดการการควบคุมความเป็นส่วนตัวด้วยการกำหนดลักษณะ (iOS)](ios-privacy-preferences.md)
 
 ## ข้อมูลการวินิจฉัย
 ### [ข้อมูลการวินิจฉัยที่จำเป็น](required-diagnostic-data.md)
