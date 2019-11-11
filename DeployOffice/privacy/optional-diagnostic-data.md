@@ -13,12 +13,12 @@ ms.custom:
 - Ent_Office_Privacy
 description: ให้ข้อมูลแก่ผู้ดูแลระบบ Office เกี่ยวกับข้อมูลการวินิจฉัยเพิ่มเติมใน Office รวมถึงตัวอย่างเหตุการณ์บางอย่าง
 hideEdit: true
-ms.openlocfilehash: d772a649a78a88112a270e839834cbe48141217f
-ms.sourcegitcommit: 02c4120c0b10bfe378d21d60699ae49aaef97834
+ms.openlocfilehash: ab40e68df1ed91b1aff7510383d47967e8f13ccb
+ms.sourcegitcommit: acb22296532bbfdfcad4dc1e7162f812997fbdd1
 ms.translationtype: HT
 ms.contentlocale: th-TH
-ms.lasthandoff: 10/15/2019
-ms.locfileid: "37510189"
+ms.lasthandoff: 11/08/2019
+ms.locfileid: "38067121"
 ---
 # <a name="optional-diagnostic-data-for-office"></a>ข้อมูลการวินิจฉัยเพิ่มเติมสำหรับ Office
 
@@ -51,6 +51,7 @@ ms.locfileid: "37510189"
 - [ใช้การตั้งค่านโยบายเพื่อจัดการการควบคุมความเป็นส่วนตัวของ Office 365 ProPlus](manage-privacy-controls.md)
 - [ใช้การกำหนดลักษณะเพื่อจัดการการควบคุมความเป็นส่วนตัวสำหรับ Office for Mac](mac-privacy-preferences.md)
 - [ใช้การกำหนดลักษณะเพื่อจัดการการควบคุมความเป็นส่วนตัวสำหรับ Office บนอุปกรณ์ iOS](ios-privacy-preferences.md)
+- [ใช้การตั้งค่านโยบายเพื่อจัดการควบคุมความเป็นส่วนตัวสำหรับ Office บนอุปกรณ์ Android](android-privacy-controls.md)
 
 ## <a name="categories-of-optional-diagnostic-data"></a>ประเภทของข้อมูลการวินิจฉัยเพิ่มเติม
 
