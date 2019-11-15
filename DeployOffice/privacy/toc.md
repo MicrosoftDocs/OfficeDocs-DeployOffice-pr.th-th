@@ -1,9 +1,12 @@
 # ความเป็นส่วนตัวสำหรับ Office 365 ProPlus
+
 ## [ภาพรวมของการควบคุมความเป็นส่วนตัว](overview-privacy-controls.md)
-## [จัดการการควบคุมความเป็นส่วนตัวด้วยการตั้งค่านโยบาย](manage-privacy-controls.md)
-## [จัดการการควบคุมความเป็นส่วนตัวด้วยการกำหนดลักษณะ (Mac)](mac-privacy-preferences.md)
-## [จัดการการควบคุมความเป็นส่วนตัวด้วยการกำหนดลักษณะ (iOS)](ios-privacy-preferences.md)
-## [จัดการควบคุมความเป็นส่วนตัวด้วยการตั้งค่านโยบาย (Android)](android-privacy-controls.md)
+
+## จัดการตัวควบคุมความเป็นส่วนตัว
+### [การตั้งค่านโยบายบน Windows](manage-privacy-controls.md)
+### [การกำหนดลักษณะบน Mac](mac-privacy-preferences.md)
+### [การกำหนดลักษณะบน iOS](ios-privacy-preferences.md)
+### [การตั้งค่านโยบายบน Android](android-privacy-controls.md)
 
 ## ข้อมูลการวินิจฉัย
 ### [ข้อมูลการวินิจฉัยที่จำเป็น](required-diagnostic-data.md)
