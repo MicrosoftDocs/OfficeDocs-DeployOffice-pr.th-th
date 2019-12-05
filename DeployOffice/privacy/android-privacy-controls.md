@@ -13,12 +13,12 @@ ms.custom:
 - Ent_Office_Privacy
 description: โดยมีผู้ดูแลระบบ Office ซึ่งมีข้อมูลเกี่ยวกับวิธีจัดการการตั้งค่าความเป็นส่วนตัวสำหรับ Office บนอุปกรณ์ Android
 hideEdit: true
-ms.openlocfilehash: 36ae9878d03845c24e3717dfac970b2b961279dc
-ms.sourcegitcommit: acb22296532bbfdfcad4dc1e7162f812997fbdd1
+ms.openlocfilehash: 69a8880b03e63be391731f9882bcee17a81a51ab
+ms.sourcegitcommit: e542473cc4fe07a98874c275846f6982a6863e35
 ms.translationtype: HT
 ms.contentlocale: th-TH
-ms.lasthandoff: 11/08/2019
-ms.locfileid: "38068454"
+ms.lasthandoff: 12/05/2019
+ms.locfileid: "39837733"
 ---
 # <a name="use-policy-settings-to-manage-privacy-controls-for-office-on-android-devices"></a>การใช้การตั้งค่านโยบายเพื่อจัดการการควบคุมความเป็นส่วนตัวสำหรับ Office บนอุปกรณ์ Android
 
@@ -31,7 +31,7 @@ ms.locfileid: "38068454"
 สำหรับข้อมูลเพิ่มเติมเกี่ยวกับข้อมูลการวินิจฉัยและประสบการณ์การใช้งานที่เชื่อมต่อ ให้ดู[ภาพรวมของการควบคุมความเป็นส่วนตัว](overview-privacy-controls.md)
 
 การตั้งค่านโยบายเหล่านี้จะนำไปใช้กับแอปพลิเคชันต่อไปนี้:
-- เวอร์ชัน 16.0.12226.10000 และเวอร์ชันต่อมาของ Word for Android, Excel for Android และ PowerPoint for Android 
+- เวอร์ชัน16.0.12228.20260 และเวอร์ชันที่ใหม่กว่าของ Word สำหรับ Android Excel สำหรับ Android และ PowerPoint สำหรับ Android
 - เวอร์ชัน16.0.12228.20004 และเวอร์ชันต่อมาของ OneNote for Android
 
 > [!NOTE]
