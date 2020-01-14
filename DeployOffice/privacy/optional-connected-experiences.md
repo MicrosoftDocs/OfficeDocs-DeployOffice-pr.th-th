@@ -13,12 +13,12 @@ ms.custom:
 - Ent_Office_Privacy
 description: ให้ข้อมูลผู้ดูแลระบบ Office เกี่ยวกับประสบการณ์ใช้งานที่เชื่อมต่อสำหรับเลือกเพิ่มเติม รวมถึงข้อกำหนดการใช้ที่นำไปใช้
 hideEdit: true
-ms.openlocfilehash: 7e9207148c9f294e9a1e41d353fa3cdd8878f88c
-ms.sourcegitcommit: 5be570c4403e82352142b3297507cf314815bdea
+ms.openlocfilehash: ab9404b93157875589f2625be51a9e30cc3d0795
+ms.sourcegitcommit: aaf8caeee3367ba6cf3c811d1ee3e43cfccc8b33
 ms.translationtype: HT
 ms.contentlocale: th-TH
-ms.lasthandoff: 11/12/2019
-ms.locfileid: "38276516"
+ms.lasthandoff: 01/11/2020
+ms.locfileid: "41024476"
 ---
 # <a name="overview-of-optional-connected-experiences-in-office"></a>ภาพรวมของประสบการณ์ใช้งานที่เชื่อมต่อสำหรับเลือกเพิ่มเติมใน Office
 
@@ -37,7 +37,15 @@ ms.locfileid: "38276516"
 
 ## <a name="experiences-that-rely-on-bing"></a>ประสบการณ์ที่อาศัย Bing
 
-บริการ Cloud บางตัวได้รับการขับเคลื่อนโดย Microsoft Bing Microsoft Bing เป็นธุรกิจแยกต่างหากจาก Office 365 ProPlus และมี Microsoft บริหารโดยไม่เกี่ยวข้องกันกับ Office 365 ProPlus ประสบการณ์ที่ขับเคลื่อนในแอปพลิเคชัน Office 365 ProPlus ได้แก่: [แผนที่แบบสามมิติ](https://support.office.com/article/6b56a50d-3c3e-4a9e-a527-eea62a387030), [แผนภูมิแผนที่](https://support.office.com/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b), [แทรกรูปภาพออนไลน์](https://support.office.com/article/3C51EDF4-22E1-460A-B372-9329A8724344), [แทรกโมเดล 3D แบบออนไลน์](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a), [เครื่องมือเริ่มต้นด่วนของ PowerPoint](https://support.office.com/article/4784f273-0b2c-456c-9c89-24e5b977c224), [เครื่องมือค้นคว้า](https://support.office.com/article/1728f286-8702-4d72-8169-ab7677ca0e1f) และ[การค้นหาแบบสมาร์ท](https://support.office.com/article/debf2083-5ac0-4739-8667-ae2467bec044) เราให้สิทธิ์การใช้งานประสบการณ์เหล่านี้แก่คุณภายใต้ข้อกำหนด [ข้อตกลงการใช้บริการของ Microsoft](https://www.microsoft.com/servicesagreement) และ [คำชี้แจงสิทธิ์ส่วนบุคคล](https://privacy.microsoft.com/) เราจะส่งการสอบถามการค้นหาใดๆ ที่คุณให้แก่องค์กร Office 365 ProPlus ในขณะที่ใช้บริการเหล่านี้ไปยัง Microsoft Bing องค์กร Bing จะไม่ลิงก์การสอบถามเหล่านี้ไปถึงคุณ
+บริการ Cloud บางตัวได้รับการขับเคลื่อนโดย Microsoft Bing Microsoft Bing เป็นธุรกิจแยกต่างหากจาก Office 365 ProPlus และมี Microsoft บริหารโดยไม่เกี่ยวข้องกันกับ Office 365 ProPlus ประสบการณ์ที่ขับเคลื่อนในแอปพลิเคชัน Office 365 ProPlus ได้แก่: [แผนที่แบบสามมิติ](https://support.office.com/article/6b56a50d-3c3e-4a9e-a527-eea62a387030), [แผนภูมิแผนที่](https://support.office.com/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b), [แทรกรูปภาพออนไลน์](https://support.office.com/article/3C51EDF4-22E1-460A-B372-9329A8724344), [แทรกโมเดล 3D แบบออนไลน์](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a), [เครื่องมือเริ่มต้นด่วนของ PowerPoint](https://support.office.com/article/4784f273-0b2c-456c-9c89-24e5b977c224), [เครื่องมือค้นคว้า](https://support.office.com/article/1728f286-8702-4d72-8169-ab7677ca0e1f) และ[การค้นหาแบบสมาร์ท](https://support.office.com/article/debf2083-5ac0-4739-8667-ae2467bec044) 
+
+ประสบการณ์ที่ Bing นำเสนอใน Outlook สำหรับ iOS และ Android มีดังต่อไปนี้:
+
+- **คำแนะนำตำแหน่งที่ตั้ง:**   เมื่อคุณเพิ่มสถานที่สาธารณะพร้อมที่อยู่ในรายการปฏิทิน ที่อยู่แบบเต็มจะรวมอยู่ในเขตข้อมูลตำแหน่งที่ตั้ง
+- **ปฏิทินที่น่าสนใจ:**   คุณสามารถ[สมัครใช้งาน](https://www.osupportweb.com/a/outlook-mobile/?s=feature-walkthroughs&f=where-do-i-go-on-outlook-to-subscribe-to-an-interesting-calendar&p=all)ปฏิทินเกี่ยวกับทีมกีฬาหรือรายการทีวีที่คุณชื่นชอบ
+
+
+ เรามอบสิทธิการใช้งานประสบการณ์เหล่านี้ที่อาศัย Bing ให้แก่คุณภายใต้ข้อกำหนด[ข้อตกลงการใช้บริการของ Microsoft](https://www.microsoft.com/servicesagreement) และครอบคลุมโดย[นโยบายความเป็นส่วนตัว](https://privacy.microsoft.com/) เราจะส่งการสอบถามการค้นหาใดๆ ที่คุณให้แก่องค์กร Office 365 ProPlus ในขณะที่ใช้บริการเหล่านี้ไปยัง Microsoft Bing องค์กร Bing จะไม่ลิงก์การสอบถามเหล่านี้ไปถึงคุณ
 
 ## <a name="experiences-that-rely-on-linkedin"></a>ประสบการณ์ที่อาศัย LinkedIn
 
@@ -47,9 +55,13 @@ ms.locfileid: "38276516"
 
 ## <a name="experiences-that-rely-on-other-microsoft-owned-online-services-andor-services-owned-by-third-parties"></a>ประสบการณ์ที่อาศัยบริการออนไลน์อื่นที่ Microsoft เป็นเจ้าของและ/หรือบริการที่บริษัทอื่นเป็นเจ้าของ
 
+### <a name="help--contact-support"></a>ความช่วยเหลือ > ติดต่อฝ่ายสนับสนุน
+
+ใน Outlook สำหรับ iOS และ Android นั้น คุณสามารถรายงานปัญหาและเชื่อมต่อกับทีมสนับสนุนของเราผ่าน**การตั้งค่า** > **ความช่วยเหลือและคำติชม** > **ติดต่อฝ่ายสนับสนุน** ประสบการณ์นี้ขับเคลื่อนโดยบริการโดย HelpShift [ข้อกำหนดการใช้บริการ](https://www.helpshift.com/legal/terms/)และ[นโยบายความเป็นส่วนตัว](https://www.helpshift.com/legal/privacy/)ของ HelpShift จะมีผลบังคับใช้
+
 ### <a name="help--suggest-a-feature"></a>ความช่วยเหลือ > แนะนำฟีเจอร์
 
-แนะนำฟีเจอร์ เป็นประสบการณ์ที่ให้คุณได้ส่งไอเดียของคุณเกี่ยวกับการใช้ Outlook ของคุณ เราจะมอบการแนะนำของคุณไปยังบริการของบริษัทอื่นที่ชื่อ UserVoice โดยตรง ถ้าคุณส่งไอเดียโดยใช้แนะนำฟีเจอร์ [ข้อกำหนดบริการและนโยบายความเป็นส่วนตัวของ UserVoice](https://outlook.uservoice.com/tos) จะมีการนำไปใช้
+แนะนำฟีเจอร์ เป็นประสบการณ์ที่ให้คุณได้ส่งไอเดียของคุณเกี่ยวกับการใช้ Outlook ของคุณ เราจะมอบการแนะนำของคุณไปยังบริการของบริษัทอื่นที่ชื่อ UserVoice โดยตรง ถ้าคุณส่งไอเดียโดยใช้แนะนำฟีเจอร์ [ข้อกำหนดการใช้บริการ](https://outlook.uservoice.com/tos)และ[นโยบายความเป็นส่วนตัว](https://outlook.uservoice.com/tos#privacy-policy)ของ UserVoice จะมีผลบังคับใช้
 
 ### <a name="insert-online-video"></a>แทรกวิดีโอออนไลน์
 
