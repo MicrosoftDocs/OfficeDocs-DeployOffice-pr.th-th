@@ -13,12 +13,12 @@ ms.custom:
 - Ent_Office_Privacy
 description: ให้ข้อมูลผู้ดูแลระบบ Office เกี่ยวกับประสบการณ์ใช้งานที่เชื่อมต่อสำหรับเลือกเพิ่มเติม รวมถึงข้อกำหนดการใช้ที่นำไปใช้
 hideEdit: true
-ms.openlocfilehash: ab9404b93157875589f2625be51a9e30cc3d0795
-ms.sourcegitcommit: aaf8caeee3367ba6cf3c811d1ee3e43cfccc8b33
+ms.openlocfilehash: 3cba95a89c0a1f108485565101d10deea5a70a38
+ms.sourcegitcommit: 41232c8500173289b94a025044166f1d1e91e870
 ms.translationtype: HT
 ms.contentlocale: th-TH
-ms.lasthandoff: 01/11/2020
-ms.locfileid: "41024476"
+ms.lasthandoff: 02/11/2020
+ms.locfileid: "41917727"
 ---
 # <a name="overview-of-optional-connected-experiences-in-office"></a>ภาพรวมของประสบการณ์ใช้งานที่เชื่อมต่อสำหรับเลือกเพิ่มเติมใน Office
 
@@ -30,6 +30,8 @@ ms.locfileid: "41024476"
 > - [ใช้การกำหนดลักษณะเพื่อจัดการการควบคุมความเป็นส่วนตัวสำหรับ Office for Mac](mac-privacy-preferences.md)
 > - [ใช้การกำหนดลักษณะเพื่อจัดการการควบคุมความเป็นส่วนตัวสำหรับ Office บนอุปกรณ์ iOS](ios-privacy-preferences.md)
 > - [ใช้การตั้งค่านโยบายเพื่อจัดการควบคุมความเป็นส่วนตัวสำหรับ Office บนอุปกรณ์ Android](android-privacy-controls.md)
+>
+> ประสบการณ์ใช้งานที่เชื่อมต่อสำหรับเลือกเพิ่มเติมส่วนใหญ่สามารถจัดการได้โดยตัวควบคุมความเป็นส่วนตัวสำหรับประสบการณ์ใช้งานที่เชื่อมต่อ ตัวอย่างเช่น การแทรกรูปภาพออนไลน์ยังสามารถจัดการได้โดยการตั้งค่านโยบาย *อนุญาตให้ใช้ประสบการณ์ใช้งานที่เชื่อมต่อใน Office ที่ดาวน์โหลดเนื้อหาแบบออนไลน์*
 
 ### <a name="if-you-use-these-services-what-terms-of-use-do-you-need-to-agree-to"></a>ถ้าคุณใช้บริการเหล่านี้ คุณต้องทำตามข้อกำหนดการใช้ข้อไหน
 
