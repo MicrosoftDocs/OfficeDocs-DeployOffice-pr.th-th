@@ -13,12 +13,12 @@ ms.custom:
 - Ent_Office_Privacy
 description: ให้ข้อมูลผู้ดูแลระบบ Office เกี่ยวกับประสบการณ์ใช้งานที่เชื่อมต่อสำหรับเลือกเพิ่มเติม รวมถึงข้อกำหนดการใช้ที่นำไปใช้
 hideEdit: true
-ms.openlocfilehash: 3cba95a89c0a1f108485565101d10deea5a70a38
-ms.sourcegitcommit: 41232c8500173289b94a025044166f1d1e91e870
+ms.openlocfilehash: 0c48bd091998e12603e09fcc9b6ce42207e2d95b
+ms.sourcegitcommit: d07de5b2fc7ea02171b84ff34bf4db9686683ed5
 ms.translationtype: HT
 ms.contentlocale: th-TH
-ms.lasthandoff: 02/11/2020
-ms.locfileid: "41917727"
+ms.lasthandoff: 02/29/2020
+ms.locfileid: "42340899"
 ---
 # <a name="overview-of-optional-connected-experiences-in-office"></a>ภาพรวมของประสบการณ์ใช้งานที่เชื่อมต่อสำหรับเลือกเพิ่มเติมใน Office
 
@@ -59,7 +59,7 @@ ms.locfileid: "41917727"
 
 ### <a name="help--contact-support"></a>ความช่วยเหลือ > ติดต่อฝ่ายสนับสนุน
 
-ใน Outlook สำหรับ iOS และ Android นั้น คุณสามารถรายงานปัญหาและเชื่อมต่อกับทีมสนับสนุนของเราผ่าน**การตั้งค่า** > **ความช่วยเหลือและคำติชม** > **ติดต่อฝ่ายสนับสนุน** ประสบการณ์นี้ขับเคลื่อนโดยบริการโดย HelpShift [ข้อกำหนดการใช้บริการ](https://www.helpshift.com/legal/terms/)และ[นโยบายความเป็นส่วนตัว](https://www.helpshift.com/legal/privacy/)ของ HelpShift จะมีผลบังคับใช้
+ใน Outlook สำหรับ iOS และ Android นั้น คุณสามารถรายงานปัญหาและเชื่อมต่อกับทีมสนับสนุนของเราผ่าน**การตั้งค่า** > **ความช่วยเหลือและคำติชม** > **ติดต่อฝ่ายสนับสนุน** ประสบการณ์การใช้งานนี้จำเป็นต้องใช้บริการซึ่งมี Microsoft เป็นเจ้าของที่เรียกว่า PowerLift และข้อกำหนด [ข้อตกลงการใช้บริการของ Microsoft](https://www.microsoft.com/servicesagreement) และ [คำชี้แจงสิทธิส่วนบุคคลของ Microsoft](https://privacy.microsoft.com/)
 
 ### <a name="help--suggest-a-feature"></a>ความช่วยเหลือ > แนะนำฟีเจอร์
 
