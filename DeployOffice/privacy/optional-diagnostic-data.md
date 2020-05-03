@@ -13,20 +13,21 @@ ms.custom:
 - Ent_Office_Privacy
 description: ให้ข้อมูลแก่ผู้ดูแลระบบ Office เกี่ยวกับข้อมูลการวินิจฉัยเพิ่มเติมใน Office รวมถึงตัวอย่างเหตุการณ์บางอย่าง
 hideEdit: true
-ms.openlocfilehash: ab40e68df1ed91b1aff7510383d47967e8f13ccb
-ms.sourcegitcommit: acb22296532bbfdfcad4dc1e7162f812997fbdd1
+ms.openlocfilehash: 0190c29a017b35d945e6a1d540e1560dfab47a4c
+ms.sourcegitcommit: 3890a23390edd0b5fdb2cf33613ec0778566cf97
 ms.translationtype: HT
 ms.contentlocale: th-TH
-ms.lasthandoff: 11/08/2019
-ms.locfileid: "38067121"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "43993203"
 ---
 # <a name="optional-diagnostic-data-for-office"></a>ข้อมูลการวินิจฉัยเพิ่มเติมสำหรับ Office
 
 > [!IMPORTANT]
-> ข้อมูลในบทความนี้ใช้กับเวอร์ชัน 1904 ขึ้นไปของซอฟต์แวร์ไคลเอ็นต์ Office ต่อไปนี้ที่ติดตั้งบนคอมพิวเตอร์ที่ใช้ Windows:
-> - Office 365 ProPlus และ Office 365 Business
-> - Office 365 Personal, Office 365 Home หรือ Office เวอร์ชันอื่นที่เป็นส่วนหนึ่งของการสมัครใช้งาน Office 365
-> - Project และ Visio ที่มีแผนการสมัครใช้งาน เช่น แผน Project Online Professional หรือ Visio Online Plan 2
+> ข้อมูลในบทความนี้นำไปใช้กับเวอร์ชัน 1904 ขึ้นไปของซอฟต์แวร์ไคลเอ็นต์ Office ต่อไปนี้ที่ติดตั้งบนคอมพิวเตอร์ที่ใช้ Windows:
+> - Microsoft 365 Apps for enterprise (ก่อนหน้านี้ใช้ชื่อว่า Office 365 ProPlus)
+> - Microsoft 365 Apps for business (ก่อนหน้านี้ใช้ชื่อว่า Office 365 Business)
+> - Microsoft 365 Personal, Microsoft 365 Family หรือ Office เวอร์ชันอื่นๆ ซึ่งเป็นส่วนหนึ่งของการสมัครใช้งาน Microsoft 365
+> - แอป project และ Visio บนเดสก์ท็อปที่มาพร้อมกับแผนการสมัครใช้งานบางอย่างเช่น Project Plan 5 หรือ Visio Plan 2
 >
 > ข้อมูลยังใช้กับเวอร์ชัน 16.28 หรือใหม่กว่าของแอปพลิเคชัน Office for Mac ดังต่อไปนี้: Excel, Outlook, OneNote, PowerPoint และ Word
 
@@ -47,8 +48,8 @@ ms.locfileid: "38067121"
 
 ถ้าคุณเป็นผู้ดูแลระบบสำหรับองค์กรของคุณ คุณอาจสนใจหัวข้อต่อไปนี้:
 
-- [ภาพรวมของการควบคุมความเป็นส่วนตัวของ Office 365 ProPlus](overview-privacy-controls.md)
-- [ใช้การตั้งค่านโยบายเพื่อจัดการการควบคุมความเป็นส่วนตัวของ Office 365 ProPlus](manage-privacy-controls.md)
+- [ภาพรวมของการควบคุมความเป็นส่วนตัวสำหรับ Microsoft 365 Apps for enterprise](overview-privacy-controls.md)
+- [ใช้การตั้งค่านโยบายเพื่อจัดการควบคุมความเป็นส่วนตัวสำหรับ Microsoft 365 Apps for enterprise](manage-privacy-controls.md)
 - [ใช้การกำหนดลักษณะเพื่อจัดการการควบคุมความเป็นส่วนตัวสำหรับ Office for Mac](mac-privacy-preferences.md)
 - [ใช้การกำหนดลักษณะเพื่อจัดการการควบคุมความเป็นส่วนตัวสำหรับ Office บนอุปกรณ์ iOS](ios-privacy-preferences.md)
 - [ใช้การตั้งค่านโยบายเพื่อจัดการควบคุมความเป็นส่วนตัวสำหรับ Office บนอุปกรณ์ Android](android-privacy-controls.md)
