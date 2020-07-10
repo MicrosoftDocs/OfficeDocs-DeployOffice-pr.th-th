@@ -14,12 +14,12 @@ ms.custom:
 - Ent_Office_Mac
 description: มอบข้อมูลเกี่ยวกับวิธีการจัดการการตั้งค่าความเป็นส่วนตัวบนอุปกรณ์ iOS ให้กับผู้ดูแลระบบ Office
 hideEdit: true
-ms.openlocfilehash: 40fc1ec1f5b2abc587e1b5224dc7fe0a5a656f33
-ms.sourcegitcommit: 3890a23390edd0b5fdb2cf33613ec0778566cf97
+ms.openlocfilehash: 6465a5b5e2103070170bdec8cd64b8bc044d46a3
+ms.sourcegitcommit: f441b1a5f8853c0941b3e23c7781c89abf0be641
 ms.translationtype: HT
 ms.contentlocale: th-TH
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43992125"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "45087866"
 ---
 # <a name="use-preferences-to-manage-privacy-controls-for-office-on-ios-devices"></a>ใช้การกำหนดลักษณะเพื่อจัดการการควบคุมความเป็นส่วนตัวสำหรับ Office บนอุปกรณ์ iOS
 
@@ -33,7 +33,9 @@ ms.locfileid: "43992125"
 
 การตั้งค่าการกำหนดลักษณะจะนำมาใช้กับแอปพลิเคชันดังต่อไปนี้:
 - Word for iOS, Excel for iOS และ PowerPoint for iOS เวอร์ชัน 2.30 และใหม่กว่า
+- Outlook สำหรับ iOS เวอร์ชัน 4.30.0 และใหม่กว่า
 - OneNote for iOS เวอร์ชัน 16.30 และใหม่กว่า
+- OneDrive สำหรับ iOS เวอร์ชัน 11.19.11 และใหม่กว่า
 - Visio Viewer for iOS เวอร์ชัน 1.17 และใหม่กว่า
 
 > [!NOTE]
@@ -60,6 +62,8 @@ ms.locfileid: "43992125"
 > - อนุญาตให้ใช้ประสบการณ์ใช้งานที่เชื่อมต่อใน Office ที่วิเคราะห์เนื้อหา
 > - อนุญาตให้ใช้ประสบการณ์ใช้งานที่เชื่อมต่อใน Office ที่ดาวน์โหลดเนื้อหาแบบออนไลน์
 > - อนุญาตให้ใช้ประสบการณ์ใช้งานที่เชื่อมต่อสำหรับเลือกเพิ่มเติมใน Office
+>
+> คุณสามารถกำหนดการตั้งค่าความเป็นส่วนตัวสำหรับ Outlook สำหรับ iOS และ OneDrive สำหรับ iOS โดยใช้บริการนโยบายคลาวด์ของ Office เท่านั้น
 >
 > สำหรับข้อมูลเพิ่มเติมเกี่ยวกับการใช้บริการนโยบายระบบคลาวด์ของ Office ให้ดู [ภาพรวมของบริการนโยบายระบบคลาวด์ของ Office](../overview-office-cloud-policy-service.md)
 

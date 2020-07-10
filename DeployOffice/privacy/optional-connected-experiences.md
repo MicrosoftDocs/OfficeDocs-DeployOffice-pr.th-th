@@ -13,12 +13,12 @@ ms.custom:
 - Ent_Office_Privacy
 description: ให้ข้อมูลผู้ดูแลระบบ Office เกี่ยวกับประสบการณ์ใช้งานที่เชื่อมต่อสำหรับเลือกเพิ่มเติม รวมถึงข้อกำหนดการใช้ที่นำไปใช้
 hideEdit: true
-ms.openlocfilehash: d5de9a7a1eb2f2a825feb28798e8f0d195476696
-ms.sourcegitcommit: 9e44d65a5d59339df7d6a2f1116462c0fb774f83
+ms.openlocfilehash: 729329eeaa301cbb7bda61c0ec8d08ec9124729f
+ms.sourcegitcommit: f441b1a5f8853c0941b3e23c7781c89abf0be641
 ms.translationtype: HT
 ms.contentlocale: th-TH
-ms.lasthandoff: 07/07/2020
-ms.locfileid: "45068737"
+ms.lasthandoff: 07/09/2020
+ms.locfileid: "45087823"
 ---
 # <a name="overview-of-optional-connected-experiences-in-office"></a>ภาพรวมของประสบการณ์ใช้งานที่เชื่อมต่อสำหรับเลือกเพิ่มเติมใน Office
 
@@ -45,7 +45,7 @@ ms.locfileid: "45068737"
 
 - **คำแนะนำตำแหน่งที่ตั้ง:**   เมื่อคุณเพิ่มสถานที่สาธารณะพร้อมที่อยู่ในรายการปฏิทิน ที่อยู่แบบเต็มจะรวมอยู่ในเขตข้อมูลตำแหน่งที่ตั้ง
 - **ปฏิทินที่น่าสนใจ:**   คุณสามารถ[สมัครใช้งาน](https://www.osupportweb.com/a/outlook-mobile/?s=feature-walkthroughs&f=where-do-i-go-on-outlook-to-subscribe-to-an-interesting-calendar&p=all)ปฏิทินเกี่ยวกับทีมกีฬาหรือรายการทีวีที่คุณชื่นชอบ
-
+- **เวลาเดินทางในรายการถัดไป:** กิจกรรมถัดไปที่กำลังจะมาถึงของคุณจะถูกสรุปไว้ที่ด้านบนสุดของกล่องอีเมลขาเข้าในการ์ดที่ชื่อ [รายการถัดไป](https://www.osupportweb.com/a/outlook-mobile/?s=up-next&f=how-does-up-next-work) ใน Outlook สำหรับ Android ประสบการณ์นี้จำเป็นต้องใช้ Bing Maps เพื่อแสดงเวลาเดินทางโดยประมาณ
 
  เรามอบสิทธิการใช้งานประสบการณ์เหล่านี้ที่อาศัย Bing ให้แก่คุณภายใต้ข้อกำหนด[ข้อตกลงการใช้บริการของ Microsoft](https://www.microsoft.com/servicesagreement) และครอบคลุมโดย[นโยบายความเป็นส่วนตัว](https://privacy.microsoft.com/) เราจะส่งการสอบถามการค้นหาใดๆ ที่คุณให้แก่องค์กร Microsoft 365 Apps for enterprise ในขณะที่ใช้บริการเหล่านี้ไปยัง Microsoft Bing องค์กร Bing จะไม่ลิงก์การสอบถามเหล่านี้ไปถึงคุณ
 
@@ -83,6 +83,10 @@ MERP เชื่อมต่อกับบริการ Watson.microsoft.com
 
 > [!NOTE]
 > การค้นคว้าเป็นคนละตัวกันกับเครื่องมือค้นคว้า ใน Office เวอร์ชันที่ใหม่กว่า อีกประสบการณ์ที่ชื่อเครื่องมือค้นคว้าจะมีให้ใช้นอกเหนือจากการค้นคว้า เครื่องมือค้นคว้าเป็นบริการที่ใหม่กว่าที่ขับเคลื่อนโดย Bing และได้กล่าวไว้ข้างต้นภายใต้[ประสบการณ์ที่อาศัย Bing](#experiences-that-rely-on-bing)
+
+### <a name="travel-time-in-up-next-in-outlook-for-ios"></a>เวลาเดินทางในรายการถัดไปใน Outlook สำหรับ iOS
+
+ใน Outlook สำหรับ iOS กิจกรรมถัดไปที่กำลังจะมาถึงของคุณจะถูกสรุปไว้ที่ด้านบนสุดของกล่องอีเมลขาเข้าในการ์ดที่ชื่อ [รายการถัดไป](https://www.osupportweb.com/a/outlook-mobile/?s=up-next&f=how-does-up-next-work) ประสบการณ์นี้จำเป็นต้องใช้บริการของ Apple ที่ชื่อ Apple Maps เพื่อแสดงเวลาเดินทางโดยประมาณ และจะใช้[ข้อตกลงการใช้งาน](https://www.apple.com/legal/internet-services/maps/)ของ Apple Maps และ[นโยบายความเป็นส่วนตัว](https://www.apple.com/legal/privacy)ของ Apple
 
 ### <a name="weather-bar-in-outlook"></a>แถบสภาพอากาศใน Outlook
 
