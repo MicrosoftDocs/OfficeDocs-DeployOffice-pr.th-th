@@ -13,12 +13,12 @@ ms.custom:
 - Ent_Office_Privacy
 description: โดยมีผู้ดูแลระบบ Office ซึ่งมีข้อมูลเกี่ยวกับวิธีจัดการการตั้งค่าความเป็นส่วนตัวสำหรับ Office บนอุปกรณ์ Android
 hideEdit: true
-ms.openlocfilehash: 38d68df0d3a12e6858568906a60973bad9d76709
-ms.sourcegitcommit: f441b1a5f8853c0941b3e23c7781c89abf0be641
+ms.openlocfilehash: 6086ecd1b2cd55bbf6cb4577879714f1d20a2f93
+ms.sourcegitcommit: 81295dff0f2fa474f0db39fd40560e3a23fff32a
 ms.translationtype: HT
 ms.contentlocale: th-TH
 ms.lasthandoff: 07/09/2020
-ms.locfileid: "45087902"
+ms.locfileid: "45092137"
 ---
 # <a name="use-policy-settings-to-manage-privacy-controls-for-office-on-android-devices"></a>การใช้การตั้งค่านโยบายเพื่อจัดการการควบคุมความเป็นส่วนตัวสำหรับ Office บนอุปกรณ์ Android
 
@@ -35,11 +35,7 @@ ms.locfileid: "45087902"
 - Outlook สำหรับ Android เวอร์ชัน 4.1.71 และใหม่กว่า
 - เวอร์ชัน16.0.12228.20004 และเวอร์ชันต่อมาของ OneNote for Android
 - OneDrive สำหรับ Android เวอร์ชัน 5.47 และใหม่กว่า
-
-> [!NOTE]
->- การตั้งค่านโยบายเหล่านี้จะนำไปใช้กับเวอร์ชัน 16.0.12130.20272 และเวอร์ชันต่อมาของตัวอย่างสำหรับสาธารณะใน [แอป Office สำหรับอุปกรณ์เคลื่อนที่](https://techcommunity.microsoft.com/t5/Office-Apps-Blog/Introducing-Office-Your-new-go-to-mobile-app-for-getting-work/ba-p/977172) ของ Android
->- การใช้ตัวอย่างสำหรับสาธารณะของแอป Office สำหรับอุปกรณ์เคลื่อนที่ของ Android จะรวบรวมรายการบันทึกการหยุดทำงานซึ่งในบางครั้งอาจมีเนื้อหาอยู่
->- ถ้าคุณกังวลเกี่ยวกับการรวบรวมข้อมูลจากตัวอย่างสำหรับสาธารณะของแอป Office สำหรับ Android คุณควรแจ้งผู้ใช้ของคุณไม่ให้เข้าสู่แอปพลิเคชันด้วยบัญชีที่ทำงานหรือโรงเรียน
+- แอป Office สำหรับ Android เวอร์ชัน 16.0.12430.20254 และใหม่กว่า
 
 ## <a name="policy-settings-available-for-office-on-android-devices"></a>การตั้งค่านโยบายที่พร้อมใช้งานสำหรับ Office บนอุปกรณ์ Android
 

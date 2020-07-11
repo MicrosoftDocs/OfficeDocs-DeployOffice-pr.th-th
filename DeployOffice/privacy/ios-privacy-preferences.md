@@ -14,12 +14,12 @@ ms.custom:
 - Ent_Office_Mac
 description: มอบข้อมูลเกี่ยวกับวิธีการจัดการการตั้งค่าความเป็นส่วนตัวบนอุปกรณ์ iOS ให้กับผู้ดูแลระบบ Office
 hideEdit: true
-ms.openlocfilehash: 6465a5b5e2103070170bdec8cd64b8bc044d46a3
-ms.sourcegitcommit: f441b1a5f8853c0941b3e23c7781c89abf0be641
+ms.openlocfilehash: ac8b3428734649981f20a82be2f0793c857e09ee
+ms.sourcegitcommit: 81295dff0f2fa474f0db39fd40560e3a23fff32a
 ms.translationtype: HT
 ms.contentlocale: th-TH
 ms.lasthandoff: 07/09/2020
-ms.locfileid: "45087866"
+ms.locfileid: "45092173"
 ---
 # <a name="use-preferences-to-manage-privacy-controls-for-office-on-ios-devices"></a>ใช้การกำหนดลักษณะเพื่อจัดการการควบคุมความเป็นส่วนตัวสำหรับ Office บนอุปกรณ์ iOS
 
@@ -36,7 +36,8 @@ ms.locfileid: "45087866"
 - Outlook สำหรับ iOS เวอร์ชัน 4.30.0 และใหม่กว่า
 - OneNote for iOS เวอร์ชัน 16.30 และใหม่กว่า
 - OneDrive สำหรับ iOS เวอร์ชัน 11.19.11 และใหม่กว่า
-- Visio Viewer for iOS เวอร์ชัน 1.17 และใหม่กว่า
+- Visio Viewer สำหรับ iOS เวอร์ชัน 1.17 และใหม่กว่า
+- แอป Office สำหรับ iOS เวอร์ชัน 2.34 และใหม่กว่า
 
 > [!NOTE]
 > สำหรับข้อมูลเกี่ยวกับการตั้งค่าที่คล้ายกันสำหรับ Office บนคอมพิวเตอร์ที่ใช้ macOS ให้ดู [ใช้การกำหนดลักษณะเพื่อจัดการการควบคุมความเป็นส่วนตัวสำหรับ Office for Mac](mac-privacy-preferences.md)
