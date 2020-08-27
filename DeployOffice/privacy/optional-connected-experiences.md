@@ -13,12 +13,12 @@ ms.custom:
 - Ent_Office_Privacy
 description: ให้ข้อมูลผู้ดูแลระบบ Office เกี่ยวกับประสบการณ์ใช้งานที่เชื่อมต่อสำหรับเลือกเพิ่มเติม รวมถึงข้อกำหนดการใช้ที่นำไปใช้
 hideEdit: true
-ms.openlocfilehash: 729329eeaa301cbb7bda61c0ec8d08ec9124729f
-ms.sourcegitcommit: f441b1a5f8853c0941b3e23c7781c89abf0be641
+ms.openlocfilehash: e6caae439e71236eb16fc47c6130526ace4d3afb
+ms.sourcegitcommit: cdb47c4dc3297a8ad70112a084ebd1f5028e2c07
 ms.translationtype: HT
 ms.contentlocale: th-TH
-ms.lasthandoff: 07/09/2020
-ms.locfileid: "45087823"
+ms.lasthandoff: 08/26/2020
+ms.locfileid: "46896218"
 ---
 # <a name="overview-of-optional-connected-experiences-in-office"></a>ภาพรวมของประสบการณ์ใช้งานที่เชื่อมต่อสำหรับเลือกเพิ่มเติมใน Office
 
@@ -35,25 +35,25 @@ ms.locfileid: "45087823"
 
 ### <a name="if-you-use-these-services-what-terms-of-use-do-you-need-to-agree-to"></a>ถ้าคุณใช้บริการเหล่านี้ คุณต้องทำตามข้อกำหนดการใช้ข้อไหน
 
-คุณต้องทราบว่า สิทธิการใช้งาน Microsoft ขององค์กรคุณไม่ครอบคลุมถึงบริการ Cloud สำหรับเลือกเพิ่มเติมเหล่านี้ แต่เราให้สิทธิ์การใช้งานแก่คุณโดยตรงแทน การใช้บริการ Cloud สำหรับเลือกเพิ่มเติมเหล่านี้จะถือว่าคุณได้ตกลงตามข้อกำหนด [ข้อตกลงการใช้บริการของ Microsoft](https://www.microsoft.com/servicesagreement) และ [คำชี้แจงสิทธิ์ส่วนบุคคล](https://privacy.microsoft.com/) ข้อกำหนดเพิ่มเติมอาจมีการนำไปใช้ ทั้งนี้ขึ้นอยู่กับบริการที่คุณใช้ ในกรณีส่วนใหญ่ การใช้บริการเหล่านี้ไม่มีค่าธรรมเนียม ถ้ามีค่าธรรมเนียม (อาจเป็นในกรณีของ [Add-in ของ Office](https://support.office.com/article/16278816-1948-4028-91E5-76DCA5380F8D) บางตัวที่มีให้คุณดาวน์โหลดผ่าน Office Store) เราจะแจ้งให้คุณทราบอย่างชัดเจนก่อนการใช้งาน
+คุณต้องทราบว่า สิทธิการใช้งาน Microsoft ขององค์กรคุณไม่ครอบคลุมถึงบริการ Cloud สำหรับเลือกเพิ่มเติมเหล่านี้ แต่เราให้สิทธิ์การใช้งานแก่คุณโดยตรงแทน การใช้บริการ Cloud สำหรับเลือกเพิ่มเติมเหล่านี้จะถือว่าคุณได้ตกลงตามข้อกำหนด [ข้อตกลงการใช้บริการของ Microsoft](https://www.microsoft.com/servicesagreement) และ [คำชี้แจงสิทธิ์ส่วนบุคคล](https://privacy.microsoft.com/) ข้อกำหนดเพิ่มเติมอาจมีการนำไปใช้ ทั้งนี้ขึ้นอยู่กับบริการที่คุณใช้ ในกรณีส่วนใหญ่ การใช้บริการเหล่านี้ไม่มีค่าธรรมเนียม ถ้ามีค่าธรรมเนียม (อาจเป็นในกรณีของ [Add-in ของ Office](https://support.microsoft.com/office/16278816-1948-4028-91E5-76DCA5380F8D) บางตัวที่มีให้คุณดาวน์โหลดผ่าน Office Store) เราจะแจ้งให้คุณทราบอย่างชัดเจนก่อนการใช้งาน
 
 ## <a name="experiences-that-rely-on-bing"></a>ประสบการณ์ที่อาศัย Bing
 
-บริการ Cloud บางตัวได้รับการขับเคลื่อนโดย Microsoft Bing Microsoft Bing เป็นธุรกิจแยกต่างหากจาก Microsoft 365 Apps for enterprise และมี Microsoft บริหารโดยไม่เกี่ยวข้องกันกับ Microsoft 365 Apps for enterprise ประสบการณ์ที่ขับเคลื่อนในแอป Office ที่มีอยู่ใน Microsoft 365 Apps for enterprise ได้แก่: [แผนที่แบบสามมิติ](https://support.office.com/article/6b56a50d-3c3e-4a9e-a527-eea62a387030), [แผนภูมิแผนที่](https://support.office.com/article/f2cfed55-d622-42cd-8ec9-ec8a358b593b), [แทรกรูปภาพออนไลน์](https://support.office.com/article/3C51EDF4-22E1-460A-B372-9329A8724344), [แทรกโมเดล 3D แบบออนไลน์](https://support.office.com/article/ec5feb79-b0af-47f6-a885-151fcc88ac0a), [เครื่องมือเริ่มต้นด่วนของ PowerPoint](https://support.office.com/article/4784f273-0b2c-456c-9c89-24e5b977c224), [เครื่องมือค้นคว้า](https://support.office.com/article/1728f286-8702-4d72-8169-ab7677ca0e1f), [การค้นหาแบบสมาร์ท](https://support.office.com/article/debf2083-5ac0-4739-8667-ae2467bec044) และ[ตัวตรวจสอบความคล้ายคลึง](https://support.microsoft.com/office/6d942360-b5ca-445f-a84d-6e8c66fc40d2) (ฟีเจอร์ของตัวแก้ไข)
+บริการ Cloud บางตัวได้รับการขับเคลื่อนโดย Microsoft Bing Microsoft Bing เป็นธุรกิจแยกต่างหากจาก Microsoft 365 Apps for enterprise และมี Microsoft บริหารโดยไม่เกี่ยวข้องกันกับ Microsoft 365 Apps for enterprise ประสบการณ์ที่ขับเคลื่อนในแอป Office ที่มีอยู่ใน Microsoft 365 Apps for enterprise ได้แก่: [แผนที่แบบสามมิติ](https://support.microsoft.com/office/6b56a50d-3c3e-4a9e-a527-eea62a387030), [แผนภูมิแผนที่](https://support.microsoft.com/office/f2cfed55-d622-42cd-8ec9-ec8a358b593b), [แทรกรูปภาพออนไลน์](https://support.microsoft.com/office/3C51EDF4-22E1-460A-B372-9329A8724344), [แทรกโมเดล 3D แบบออนไลน์](https://support.microsoft.com/office/ec5feb79-b0af-47f6-a885-151fcc88ac0a), [เครื่องมือเริ่มต้นด่วนของ PowerPoint](https://support.microsoft.com/office/4784f273-0b2c-456c-9c89-24e5b977c224), [เครื่องมือค้นคว้า](https://support.microsoft.com/office/1728f286-8702-4d72-8169-ab7677ca0e1f), [การค้นหาแบบสมาร์ท](https://support.microsoft.com/office/debf2083-5ac0-4739-8667-ae2467bec044) และ[ตัวตรวจสอบความคล้ายคลึง](https://support.microsoft.com/office/6d942360-b5ca-445f-a84d-6e8c66fc40d2) (ฟีเจอร์ของตัวแก้ไข)
 
-ประสบการณ์ที่ Bing นำเสนอใน Outlook สำหรับ iOS และ Android มีดังต่อไปนี้:
+Bing ขับเคลื่อนประสบการณ์ต่อไปนี้ใน Outlook สำหรับ iOS และ Android:
 
 - **คำแนะนำตำแหน่งที่ตั้ง:**   เมื่อคุณเพิ่มสถานที่สาธารณะพร้อมที่อยู่ในรายการปฏิทิน ที่อยู่แบบเต็มจะรวมอยู่ในเขตข้อมูลตำแหน่งที่ตั้ง
-- **ปฏิทินที่น่าสนใจ:**   คุณสามารถ[สมัครใช้งาน](https://www.osupportweb.com/a/outlook-mobile/?s=feature-walkthroughs&f=where-do-i-go-on-outlook-to-subscribe-to-an-interesting-calendar&p=all)ปฏิทินเกี่ยวกับทีมกีฬาหรือรายการทีวีที่คุณชื่นชอบ
+- **ปฏิทินที่น่าสนใจ:**   คุณสามารถ[สมัครใช้งาน](https://support.microsoft.com/office/cff1429c-5af6-41ec-a5b4-74f2c278e98c)ปฏิทินเกี่ยวกับทีมกีฬาหรือรายการทีวีที่คุณชื่นชอบ
 - **เวลาเดินทางในรายการถัดไป:** กิจกรรมถัดไปที่กำลังจะมาถึงของคุณจะถูกสรุปไว้ที่ด้านบนสุดของกล่องอีเมลขาเข้าในการ์ดที่ชื่อ [รายการถัดไป](https://www.osupportweb.com/a/outlook-mobile/?s=up-next&f=how-does-up-next-work) ใน Outlook สำหรับ Android ประสบการณ์นี้จำเป็นต้องใช้ Bing Maps เพื่อแสดงเวลาเดินทางโดยประมาณ
 
  เรามอบสิทธิการใช้งานประสบการณ์เหล่านี้ที่อาศัย Bing ให้แก่คุณภายใต้ข้อกำหนด[ข้อตกลงการใช้บริการของ Microsoft](https://www.microsoft.com/servicesagreement) และครอบคลุมโดย[นโยบายความเป็นส่วนตัว](https://privacy.microsoft.com/) เราจะส่งการสอบถามการค้นหาใดๆ ที่คุณให้แก่องค์กร Microsoft 365 Apps for enterprise ในขณะที่ใช้บริการเหล่านี้ไปยัง Microsoft Bing องค์กร Bing จะไม่ลิงก์การสอบถามเหล่านี้ไปถึงคุณ
 
 ## <a name="experiences-that-rely-on-linkedin"></a>ประสบการณ์ที่อาศัย LinkedIn
 
-[ตัวช่วยร่างประวัติย่อ](https://support.office.com/article/444ff6f0-ef74-4a9c-9091-ffd7a9d1917a) มอบประสบการณ์ใน Word ที่ขับเคลื่อนโดย LinkedIn โดยมอบไอเดียสำหรับประวัติย่อของคุณ LinkedIn เป็นบริษัทอื่นที่ Microsoft เป็นเจ้าของ ถ้าคุณใช้ตัวช่วยร่างประวัติย่อ [ข้อตกลงผู้ใช้ของ LinkedIn และนโยบายความเป็นส่วนตัว](https://www.linkedin.com/legal/user-agreement)จะมีการนำไปใช้นอกเหนือจาก [ข้อตกลงการใช้บริการของ Microsoft](https://www.microsoft.com/servicesagreement) และ [คำชี้แจงสิทธิ์ส่วนบุคคล](https://privacy.microsoft.com/) เราจะส่งการสอบถามการค้นหาใดๆ ที่คุณให้แก่องค์กร Microsoft 365 Apps for enterprise ในขณะที่ใช้บริการเหล่านี้ไปยัง LinkedIn องค์กร LinkedIn จะไม่ลิงก์การสอบถามเหล่านี้ไปถึงคุณ คุณไม่จำเป็นต้องมีบัญชี LinkedIn เพื่อใช้บริการ Cloud นี้
+[ตัวช่วยร่างประวัติย่อ](https://support.microsoft.com/office/444ff6f0-ef74-4a9c-9091-ffd7a9d1917a) มอบประสบการณ์ใน Word ที่ขับเคลื่อนโดย LinkedIn โดยมอบไอเดียสำหรับประวัติย่อของคุณ LinkedIn เป็นบริษัทอื่นที่ Microsoft เป็นเจ้าของ ถ้าคุณใช้ตัวช่วยร่างประวัติย่อ LinkedIn [ข้อตกลงการใช้](https://www.linkedin.com/legal/user-agreement) และ [นโยบายความเป็นส่วนตัว](https://www.linkedin.com/legal/privacy-policy) จะมีการนำไปใช้นอกเหนือจาก [ข้อตกลงการใช้บริการของ Microsoft](https://www.microsoft.com/servicesagreement) และ [คำชี้แจงสิทธิส่วนบุคคล](https://privacy.microsoft.com/). เราจะส่งการสอบถามการค้นหาใดๆ ที่คุณให้แก่องค์กร Microsoft 365 Apps for enterprise ในขณะที่ใช้บริการเหล่านี้ไปยัง LinkedIn องค์กร LinkedIn จะไม่ลิงก์การสอบถามเหล่านี้ไปถึงคุณ คุณไม่จำเป็นต้องมีบัญชี LinkedIn เพื่อใช้บริการ Cloud นี้
 
-หมายเหตุ: การตั้งค่าความเป็นส่วนตัวที่ระบุด้านล่างจะไม่ควบคุมประสบการณ์ที่ต้องให้คุณเชื่อมต่อบัญชี LinkedIn กับบัญชี Microsoft ของที่ทำงานหรือที่โรงเรียนของคุณ เมื่อต้องการควบคุมประสบการณ์ชนิดนี้ เช่น ข้อมูล LinkedIn บน [บัตรโปรไฟล์](https://support.office.com/article/e80f931f-5fc4-4a59-ba6e-c1e35a85b501) ใน Outlook ให้ดู [เชื่อมต่อบัญชี LinkedIn กับบัญชี Microsoft](https://support.office.com/article/dc81cc70-4d64-4755-9f1c-b9536e34d381)
+หมายเหตุ: การตั้งค่าความเป็นส่วนตัวที่ระบุด้านล่างจะไม่ควบคุมประสบการณ์ที่ต้องให้คุณเชื่อมต่อบัญชี LinkedIn กับบัญชี Microsoft ของที่ทำงานหรือที่โรงเรียนของคุณ เมื่อต้องการควบคุมประสบการณ์ประเภทนี้ (เช่น ข้อมูล LinkedIn บน [บัตรโปรไฟล์](https://support.microsoft.com/office/e80f931f-5fc4-4a59-ba6e-c1e35a85b501) ใน Outlook) ให้ดู [LinkedIn ในแอปและบริการของ Microsoft](https://support.microsoft.com/office/dc81cc70-4d64-4755-9f1c-b9536e34d381)
 
 ## <a name="experiences-that-rely-on-other-microsoft-owned-online-services-andor-services-owned-by-third-parties"></a>ประสบการณ์ที่อาศัยบริการออนไลน์อื่นที่ Microsoft เป็นเจ้าของและ/หรือบริการที่บริษัทอื่นเป็นเจ้าของ
 
@@ -67,7 +67,7 @@ ms.locfileid: "45087823"
 
 ### <a name="insert-online-video"></a>แทรกวิดีโอออนไลน์
 
-[แทรกวิดีโอออนไลน์](https://support.office.com/article/8340EC69-4CEE-4FE1-AB96-4849154BC6DB) ให้คุณได้แทรกไฟล์วิดีโอลงในเอกสารของคุณ ประสบการณ์การแทรกวิดีโอออนไลน์จะขึ้นอยู่กับ [ข้อตกลงการใช้บริการของ Microsoft](https://www.microsoft.com/servicesagreement) และ[คำชี้แจงสิทธิ์ส่วนบุคคล](https://privacy.microsoft.com/) ข้อกำหนดการใช้เพิ่มเติมอาจมีการนำไปใช้ถ้าคุณเข้าถึงเนื้อหาจากแหล่งของบริษัทอื่น เช่น เมื่อคุณเชื่อมต่อกับ YouTube [ข้อกำหนดการใช้](https://www.youtube.com/t/terms)และ[คำชี้แจงสิทธิ์ส่วนบุคคล](https://policies.google.com/privacy)ของ YouTube จะมีการนำไปใช้ Microsoft อาจเพิ่มผู้ให้บริการวิดีโอรายอื่นในอนาคตได้
+[แทรกวิดีโอออนไลน์](https://support.microsoft.com/office/8340EC69-4CEE-4FE1-AB96-4849154BC6DB) ให้คุณได้แทรกไฟล์วิดีโอลงในเอกสารของคุณ ประสบการณ์การแทรกวิดีโอออนไลน์จะขึ้นอยู่กับ [ข้อตกลงการใช้บริการของ Microsoft](https://www.microsoft.com/servicesagreement) และ[คำชี้แจงสิทธิ์ส่วนบุคคล](https://privacy.microsoft.com/) ข้อกำหนดการใช้เพิ่มเติมอาจมีการนำไปใช้ถ้าคุณเข้าถึงเนื้อหาจากแหล่งของบริษัทอื่น เช่น เมื่อคุณเชื่อมต่อกับ YouTube [ข้อกำหนดการใช้](https://www.youtube.com/t/terms)และ[คำชี้แจงสิทธิ์ส่วนบุคคล](https://policies.google.com/privacy)ของ YouTube จะมีการนำไปใช้ Microsoft อาจเพิ่มผู้ให้บริการวิดีโอรายอื่นในอนาคตได้
 
 ### <a name="microsoft-error-reporting-program-merp"></a>Microsoft Error Reporting Program (MERP) 
 
@@ -75,11 +75,11 @@ MERP เชื่อมต่อกับบริการ Watson.microsoft.com
 
 ### <a name="office-store"></a>Office Store 
 
-เมื่อคุณใช้ Office Store [ข้อตกลงการใช้บริการของ Microsoft](https://www.microsoft.com/servicesagreement) และ[คำชี้แจงสิทธิ์ส่วนบุคคล](https://privacy.microsoft.com/)จะให้สิทธิ์การใช้งานไซต์ของ Store เอง แต่ข้อกำหนดการใช้ของผู้ให้บริการ Add-in จะครอบคลุม [Add-in ของ Office](https://support.office.com/article/16278816-1948-4028-91E5-76DCA5380F8D) ทั้งหมดที่คุณดาวน์โหลดผ่าน Office Store โดยอาจเป็นองค์กรหรือธุรกิจต่างๆ ได้ และบางแห่งอาจคิดค่าธรรมเนียมการใช้งาน คุณจะต้องตรวจสอบสิทธิ์ คำชี้แจงสิทธิ์ส่วนบุคคล และเงื่อนไขการอนุญาตให้ใช้สิทธิของแต่ละ Add-in เพื่อให้ทราบว่าข้อกำหนดใดมีการนำไปใช้ และตัดสินใจว่าคุณต้องการตกลงตามข้อกำหนดการใช้ที่องค์กรนั้นเสนอหรือไม่
+เมื่อคุณใช้ Office Store [ข้อตกลงการใช้บริการของ Microsoft](https://www.microsoft.com/servicesagreement) และ[คำชี้แจงสิทธิ์ส่วนบุคคล](https://privacy.microsoft.com/)จะให้สิทธิ์การใช้งานไซต์ของ Store เอง แต่ข้อกำหนดการใช้ของผู้ให้บริการ Add-in จะครอบคลุม [Add-in ของ Office](https://support.microsoft.com/office/16278816-1948-4028-91E5-76DCA5380F8D) ทั้งหมดที่คุณดาวน์โหลดผ่าน Office Store โดยอาจเป็นองค์กรหรือธุรกิจต่างๆ ได้ และบางแห่งอาจคิดค่าธรรมเนียมการใช้งาน คุณจะต้องตรวจสอบสิทธิ์ คำชี้แจงสิทธิ์ส่วนบุคคล และเงื่อนไขการอนุญาตให้ใช้สิทธิของแต่ละ Add-in เพื่อให้ทราบว่าข้อกำหนดใดมีการนำไปใช้ และตัดสินใจว่าคุณต้องการตกลงตามข้อกำหนดการใช้ที่องค์กรนั้นเสนอหรือไม่
 
 ### <a name="research"></a>การค้นคว้า
 
-[การค้นคว้า](https://support.office.com/article/b862efc5-9a7b-4f88-a23d-93712d6e4397) เชื่อมต่อกับบริการ Cloud เพื่อให้ได้ผลลัพธ์จากการค้นหาคำ คำแปล อรรถาภิธาน และพจนานุกรม เมื่อคุณใช้ประสบการณ์นี้ ก็จะเชื่อมต่อกับบริการที่ Microsoft เป็นเจ้าของตามค่าเริ่มต้น และ[ข้อตกลงการใช้บริการของ Microsoft](https://www.microsoft.com/servicesagreement) และ[คำชี้แจงสิทธิ์ส่วนบุคคล](https://privacy.microsoft.com/)จะมีการนำไปใช้ การค้นคว้าให้คุณได้เพิ่มผู้ให้บริการรายอื่น ถ้าคุณตัดสินใจว่าจะใช้ผู้ให้บริการอื่น ข้อกำหนดเพิ่มเติมอาจมีการนำไปใช้
+[การค้นคว้า](https://support.microsoft.com/office/b862efc5-9a7b-4f88-a23d-93712d6e4397) เชื่อมต่อกับบริการที่ได้รับการสนับสนุนบนคลาวด์เพื่อให้ได้ผลลัพธ์จากพจนานุกรม การแปล อรรถาภิธาน และผลการค้นหาคำ เมื่อคุณใช้ประสบการณ์นี้ ก็จะเชื่อมต่อกับบริการที่ Microsoft เป็นเจ้าของตามค่าเริ่มต้น และ[ข้อตกลงการใช้บริการของ Microsoft](https://www.microsoft.com/servicesagreement) และ[คำชี้แจงสิทธิ์ส่วนบุคคล](https://privacy.microsoft.com/)จะมีการนำไปใช้ การค้นคว้าให้คุณได้เพิ่มผู้ให้บริการรายอื่น ถ้าคุณตัดสินใจว่าจะใช้ผู้ให้บริการอื่น ข้อกำหนดเพิ่มเติมอาจมีการนำไปใช้
 
 > [!NOTE]
 > การค้นคว้าเป็นคนละตัวกันกับเครื่องมือค้นคว้า ใน Office เวอร์ชันที่ใหม่กว่า อีกประสบการณ์ที่ชื่อเครื่องมือค้นคว้าจะมีให้ใช้นอกเหนือจากการค้นคว้า เครื่องมือค้นคว้าเป็นบริการที่ใหม่กว่าที่ขับเคลื่อนโดย Bing และได้กล่าวไว้ข้างต้นภายใต้[ประสบการณ์ที่อาศัย Bing](#experiences-that-rely-on-bing)
@@ -90,7 +90,7 @@ MERP เชื่อมต่อกับบริการ Watson.microsoft.com
 
 ### <a name="weather-bar-in-outlook"></a>แถบสภาพอากาศใน Outlook
 
-[แถบสภาพอากาศ](https://support.office.com/article/d11b7532-7c58-489e-8103-5cc5d727b06b)ใน Outlook จะแสดงผลการพยากรณ์อากาศสำหรับตำแหน่งที่ตั้งทางภูมิศาสตร์ที่คุณเลือก ระหว่างการใช้งาน แถบสภาพอากาศใน Outlook เชื่อมต่อกับ MSN พยากรณ์อากาศ ตามค่าเริ่มต้น Microsoft เป็นเจ้าของ MSN และข้อกำหนด [ข้อตกลงการใช้บริการของ Microsoft](https://www.microsoft.com/servicesagreement) และ [คำชี้แจงสิทธิ์ส่วนบุคคลของ Microsoft](https://privacy.microsoft.com/) จะมีการนำไปใช้ เมื่อคุณใช้แถบสภาพอากาศด้วย MSN พยากรณ์อากาศ Microsoft จะไม่ตรวจพบตำแหน่งที่ตั้งของคุณ และเมืองที่คุณเลือกให้แสดงผลจะไม่สามารถลิงก์ไปหาคุณได้ คุณอาจ[เปลี่ยนการตั้งค่าเริ่มต้นนี้](https://docs.microsoft.com/office/client-developer/outlook/weather/extending-the-weather-bar-in-outlook)ได้เพื่อเชื่อมต่อกับผู้ให้บริการพยากรณ์อากาศรายอื่น ถ้าคุณตัดสินใจว่าจะใช้บริการจากผู้ให้บริการพยากรณ์อากาศรายอื่น คุณจะต้องตรวจสอบคำชี้แจงสิทธิ์ส่วนบุคคลและเงื่อนไขการอนุญาตให้ใช้สิทธิของผู้ให้บริการแต่ละราย เพื่อให้ทราบว่าข้อกำหนดใดมีการนำไปใช้
+[แถบสภาพอากาศ](https://support.microsoft.com/office/d11b7532-7c58-489e-8103-5cc5d727b06b)ใน Outlook จะแสดงผลการพยากรณ์อากาศสำหรับตำแหน่งที่ตั้งทางภูมิศาสตร์ที่คุณเลือก ระหว่างการใช้งาน แถบสภาพอากาศใน Outlook เชื่อมต่อกับ MSN พยากรณ์อากาศ ตามค่าเริ่มต้น Microsoft เป็นเจ้าของ MSN และข้อกำหนด [ข้อตกลงการใช้บริการของ Microsoft](https://www.microsoft.com/servicesagreement) และ [คำชี้แจงสิทธิ์ส่วนบุคคลของ Microsoft](https://privacy.microsoft.com/) จะมีการนำไปใช้ เมื่อคุณใช้แถบสภาพอากาศด้วย MSN พยากรณ์อากาศ Microsoft จะไม่ตรวจพบตำแหน่งที่ตั้งของคุณ และเมืองที่คุณเลือกให้แสดงผลจะไม่สามารถลิงก์ไปหาคุณได้ คุณอาจ[เปลี่ยนการตั้งค่าเริ่มต้นนี้](https://docs.microsoft.com/office/client-developer/outlook/weather/extending-the-weather-bar-in-outlook)ได้เพื่อเชื่อมต่อกับผู้ให้บริการพยากรณ์อากาศรายอื่น ถ้าคุณตัดสินใจว่าจะใช้บริการจากผู้ให้บริการพยากรณ์อากาศรายอื่น คุณจะต้องตรวจสอบคำชี้แจงสิทธิ์ส่วนบุคคลและเงื่อนไขการอนุญาตให้ใช้สิทธิของผู้ให้บริการแต่ละราย เพื่อให้ทราบว่าข้อกำหนดใดมีการนำไปใช้
 
 
 ## <a name="how-to-determine-if-your-admin-has-given-you-the-ability-to-use-optional-connected-experiences"></a>วิธีค้นหาว่าผู้ดูแลระบบของคุณได้ให้ความสามารถแก่คุณในการใช้ประสบการณ์ใช้งานที่เชื่อมต่อสำหรับเลือกเพิ่มเติมหรือไม่
@@ -103,15 +103,15 @@ MERP เชื่อมต่อกับบริการ Watson.microsoft.com
 
 หากผู้ดูแลระบบของคุณได้ให้คุณมีความสามารถในการใช้ประสบการณ์ใช้งานที่เชื่อมต่อเพิ่มเติมในแอป Office ที่มีอยู่ใน Microsoft 365 Apps for enterprise บนอุปกรณ์ Windows คุณสามารถไปที่ **ไฟล์** > **บัญชี** > **ความเป็นส่วนตัวของบัญชี** แล้วเลือก **จัดการการตั้งค่า** เพื่อจัดการการตั้งค่าของคุณได้ทุกเมื่อ เมื่อเปิดใช้งานแล้ว คุณจะมีตัวเลือกในการใช้บริการตามที่ระบุไว้ในบทความนี้เมื่อคุณต้องการใช้งาน เมื่อปิดใช้งาน จะไม่สามารถเข้าถึงได้
 
-หากคุณใช้ Office for Mac ให้เปิดแอปพลิเคชัน Office ใดๆ ก็ได้แล้วเลือกเมนูแอป (เช่น Word หรือ Excel) > **การกำหนดลักษณะ** > **ความเป็นส่วนตัว** การดำเนินการนี้จะเปิดกล่องโต้ตอบการตั้งค่าความเป็นส่วนตัวของบัญชีซึ่งคุณสามารถดูตัวเลือกความเป็นส่วนตัวของคุณได้
+หากคุณใช้ Office for Mac ให้เปิดแอปพลิเคชัน Office ใดก็ได้แล้วเลือกเมนูแอป (เช่น Word หรือ Excel) > **การกำหนดลักษณะ** > **ความเป็นส่วนตัว** การดำเนินการนี้จะเปิดกล่องโต้ตอบการตั้งค่าความเป็นส่วนตัวของบัญชีซึ่งคุณสามารถดูตัวเลือกความเป็นส่วนตัวของคุณได้
 
 ## <a name="diagnostic-data"></a>ข้อมูลการวินิจฉัย
 
-เมื่อคุณใช้บริการ Cloud สำหรับเลือกเพิ่มเติมใดๆ ที่ระบุไว้ในบทความนี้ Microsoft สามารถรวบรวมข้อมูลการวินิจฉัย (เช่น ข้อมูลการใช้งาน ข้อผิดพลาด และข้อมูลประสิทธิภาพ) เกี่ยวกับประสิทธิภาพของประสบการณ์ดังกล่าวเมื่อคุณใช้งาน ข้อมูลการวินิจฉัยนี้อาจมี "ข้อมูลส่วนตัว" ตามที่ได้กำหนดในข้อที่ 4 ของ GDPR ของยุโรป ข้อมูลการวินิจฉัยทั้งหมดที่ Microsoft รวบรวมในระหว่างการใช้แอปพลิเคชันและบริการ Microsoft 365 Apps for enterprise จะถูกนำการระบุตัวตนออกตามที่กำหนดไว้ในมาตรฐาน ISO/IEC 19944:2017 (ตอนที่ 8.3.3)
+เมื่อคุณใช้บริการ Cloud สำหรับเลือกเพิ่มเติมใดๆ ที่ระบุไว้ในบทความนี้ Microsoft สามารถรวบรวมข้อมูลการวินิจฉัย (เช่น ข้อมูลการใช้งาน ข้อผิดพลาด และข้อมูลประสิทธิภาพ) เกี่ยวกับประสิทธิภาพของประสบการณ์ดังกล่าวเมื่อคุณใช้งาน ข้อมูลการวินิจฉัยนี้อาจมี "ข้อมูลส่วนตัว" ตามที่ได้กำหนดในข้อที่ 4 ของ GDPR ของยุโรปข้อมูลการวินิจฉัยทั้งหมดที่ Microsoft รวบรวมในระหว่างการใช้แอปพลิเคชันและบริการ Microsoft 365 Apps for enterprise จะถูกนำการระบุตัวตนออกตามที่กำหนดไว้ในมาตรฐาน ISO/IEC 19944:2017 (ตอนที่ 8.3.3)
 
 
-## <a name="related-topics"></a>หัวข้อที่เกี่ยวข้อง
+## <a name="related-articles"></a>บทความที่เกี่ยวข้อง
 
 - [ภาพรวมของการควบคุมความเป็นส่วนตัวสำหรับ Microsoft 365 Apps for enterprise](overview-privacy-controls.md)
 - [ข้อมูลบริการที่จำเป็นสำหรับ Office](required-service-data.md)
-- [การตั้งค่าความเป็นส่วนตัวของบัญชี](https://support.office.com/article/3e7bc183-bf52-4fd0-8e6b-78978f7f121b)
+- [การตั้งค่าความเป็นส่วนตัวของบัญชี](https://support.microsoft.com/office/3e7bc183-bf52-4fd0-8e6b-78978f7f121b)
