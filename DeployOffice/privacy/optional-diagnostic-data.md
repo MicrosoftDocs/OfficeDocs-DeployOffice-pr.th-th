@@ -13,23 +13,17 @@ ms.custom:
 - Ent_Office_Privacy
 description: ให้ข้อมูลแก่ผู้ดูแลระบบ Office เกี่ยวกับข้อมูลการวินิจฉัยเพิ่มเติมใน Office รวมถึงตัวอย่างเหตุการณ์บางอย่าง
 hideEdit: true
-ms.openlocfilehash: 6769c7a0bf254b5a33f92c5410ec517b7d568d8e
-ms.sourcegitcommit: 721c6d39465a5b0ab8e32b876c2e74bb5aaf4b81
+ms.openlocfilehash: 2183863e1f7050d7d6ba838b639debf2b53ac9bd
+ms.sourcegitcommit: e1e4c309d62d0708404b7838c96416ce89f1b8b7
 ms.translationtype: HT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/14/2020
-ms.locfileid: "46683206"
+ms.lasthandoff: 10/01/2020
+ms.locfileid: "48328338"
 ---
 # <a name="optional-diagnostic-data-for-office"></a>ข้อมูลการวินิจฉัยเพิ่มเติมสำหรับ Office
 
-> [!IMPORTANT]
-> ข้อมูลในบทความนี้นำไปใช้กับเวอร์ชัน 1904 ขึ้นไปของซอฟต์แวร์ไคลเอ็นต์ Office ต่อไปนี้ที่ติดตั้งบนคอมพิวเตอร์ที่ใช้ Windows:
-> - Microsoft 365 Apps for enterprise (ก่อนหน้านี้ใช้ชื่อว่า Office 365 ProPlus)
-> - Microsoft 365 Apps for business (ก่อนหน้านี้ใช้ชื่อว่า Office 365 Business)
-> - Microsoft 365 Personal, Microsoft 365 Family หรือ Office เวอร์ชันอื่นๆ ซึ่งเป็นส่วนหนึ่งของการสมัครใช้งาน Microsoft 365
-> - แอป project และ Visio บนเดสก์ท็อปที่มาพร้อมกับแผนการสมัครใช้งานบางอย่างเช่น Project Plan 5 หรือ Visio Plan 2
->
-> ข้อมูลยังใช้กับเวอร์ชัน 16.28 หรือใหม่กว่าของแอปพลิเคชัน Office for Mac ดังต่อไปนี้: Excel, Outlook, OneNote, PowerPoint และ Word
+> [!NOTE]
+> สำหรับรายการผลิตภัณฑ์ Office ที่ครอบคลุมโดยข้อมูลความเป็นส่วนตัวนี้ โปรดดู[การควบคุมความเป็นส่วนตัวที่พร้อมใช้งานสำหรับผลิตภัณฑ์ Office](products-versions-privacy-controls.md)
 
 ข้อมูลการวินิจฉัยมีไว้เพื่อรักษาความปลอดภัย อัปเดต ตรวจหา วินิจฉัย และแก้ไขปัญหาใน Office รวมถึงการปรับปรุงผลิตภัณฑ์ด้วย ข้อมูลนี้จะไม่มีชื่อหรือที่อยู่อีเมลของผู้ใช้ เนื้อหาไฟล์ของผู้ใช้ หรือข้อมูลเกี่ยวกับแอปที่ไม่เกี่ยวข้องกับ Office
 
@@ -41,12 +35,12 @@ ms.locfileid: "46683206"
 
 ตัวอย่างของข้อมูลการวินิจฉัยเพิ่มเติมมีข้อมูลที่เรารวบรวมเกี่ยวกับรูปร่างที่ผู้ใช้แทรกลงในเอกสาร Word เพื่อให้เราสามารถให้ตัวเลือกที่ดียิ่งขึ้น และข้อมูลที่เรารวบรวมเกี่ยวกับเวลาที่ใช้ในการแสดงสไลด์ PowerPoint บนหน้าจอของคุณเพื่อให้เราสามารถปรับปรุงประสบการณ์ใช้งานได้ถ้าทำงานช้า
 
-สำหรับข้อมูลเพิ่มเติมเกี่ยวกับข้อมูลการวินิจฉัย ให้ดูที่หัวข้อต่อไปนี้:
+สำหรับข้อมูลเพิ่มเติมเกี่ยวกับข้อมูลการวินิจฉัย ให้ดูที่บทความต่อไปนี้:
 
 - [ข้อมูลการวินิจฉัยที่จำเป็นสำหรับ Office](required-diagnostic-data.md)
-- [การใช้ตัวแสดงข้อมูลการวินิจฉัยกับ Office](https://support.office.com/article/cf761ce9-d805-4c60-a339-4e07f3182855)
+- [การใช้ตัวแสดงข้อมูลการวินิจฉัยกับ Office](https://support.microsoft.com/office/cf761ce9-d805-4c60-a339-4e07f3182855)
 
-ถ้าคุณเป็นผู้ดูแลระบบสำหรับองค์กรของคุณ คุณอาจสนใจหัวข้อต่อไปนี้:
+ถ้าคุณเป็นผู้ดูแลระบบสำหรับองค์กรของคุณ คุณอาจสนใจบทความต่อไปนี้:
 
 - [ภาพรวมของการควบคุมความเป็นส่วนตัวสำหรับ Microsoft 365 Apps for enterprise](overview-privacy-controls.md)
 - [ใช้การตั้งค่านโยบายเพื่อจัดการควบคุมความเป็นส่วนตัวสำหรับ Microsoft 365 Apps for enterprise](manage-privacy-controls.md)
