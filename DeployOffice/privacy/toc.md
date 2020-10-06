@@ -21,3 +21,4 @@
 ### [ข้อมูลบริการที่จำเป็น](required-service-data.md)
 
 ## [บริการที่จำเป็น](essential-services.md)
+## [คำแนะนำในผลิตภัณฑ์](in-product-recommendations.md)
