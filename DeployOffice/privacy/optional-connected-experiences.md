@@ -13,12 +13,12 @@ ms.custom:
 - Ent_Office_Privacy
 description: ให้ข้อมูลผู้ดูแลระบบ Office เกี่ยวกับประสบการณ์ใช้งานที่เชื่อมต่อสำหรับเลือกเพิ่มเติม รวมถึงข้อกำหนดการใช้ที่นำไปใช้
 hideEdit: true
-ms.openlocfilehash: d0eea79f28d2c2f79991ac0d59ebb6a567fecb21
-ms.sourcegitcommit: e64b8f2b7f92a3972d8dc83f47d84648fbe17370
+ms.openlocfilehash: ed197ed1cc8dd3c19d10a227510fe687da54d9c7
+ms.sourcegitcommit: f7496035cde1b3a5a4efb9013fd30064fb0c9132
 ms.translationtype: HT
 ms.contentlocale: th-TH
-ms.lasthandoff: 11/06/2020
-ms.locfileid: "48931455"
+ms.lasthandoff: 03/09/2021
+ms.locfileid: "50597385"
 ---
 # <a name="overview-of-optional-connected-experiences-in-office"></a>ภาพรวมของประสบการณ์ใช้งานที่เชื่อมต่อสำหรับเลือกเพิ่มเติมใน Office
 
@@ -42,7 +42,7 @@ Bing ขับเคลื่อนประสบการณ์ต่อไป
 
 - **คำแนะนำตำแหน่งที่ตั้ง:**   เมื่อคุณเพิ่มสถานที่สาธารณะพร้อมที่อยู่ในรายการปฏิทิน ที่อยู่แบบเต็มจะรวมอยู่ในเขตข้อมูลตำแหน่งที่ตั้ง
 - **ปฏิทินที่น่าสนใจ:**   คุณสามารถ [สมัครใช้งาน](https://support.microsoft.com/office/cff1429c-5af6-41ec-a5b4-74f2c278e98c)ปฏิทินเกี่ยวกับทีมกีฬาหรือรายการทีวีที่คุณชื่นชอบ
-- **เวลาเดินทางในรายการถัดไป:** กิจกรรมถัดไปที่กำลังจะมาถึงของคุณจะถูกสรุปไว้ที่ด้านบนสุดของกล่องอีเมลขาเข้าในการ์ดที่ชื่อ [รายการถัดไป](https://www.osupportweb.com/a/outlook-mobile/?s=up-next&f=how-does-up-next-work) ใน Outlook สำหรับ Android ประสบการณ์นี้จำเป็นต้องใช้ Bing Maps เพื่อแสดงเวลาเดินทางโดยประมาณ
+- **เวลาเดินทางในรายการถัดไป:** กิจกรรมถัดไปที่กำลังจะมาถึงของคุณจะถูกสรุปไว้ที่ด้านบนสุดของกล่องอีเมลขาเข้าในการ์ดที่ชื่อ [รายการถัดไป](https://support.microsoft.com/office/d316ba95-c0d8-4a6e-87a3-84dd17f3775e) ใน Outlook สำหรับ Android ประสบการณ์นี้จำเป็นต้องใช้ Bing Maps เพื่อแสดงเวลาเดินทางโดยประมาณ
 
  เรามอบสิทธิการใช้งานประสบการณ์เหล่านี้ที่อาศัย Bing ให้แก่คุณภายใต้ข้อกำหนด[ข้อตกลงการใช้บริการของ Microsoft](https://www.microsoft.com/servicesagreement) และครอบคลุมโดย[นโยบายความเป็นส่วนตัว](https://privacy.microsoft.com/) เราจะส่งการสอบถามการค้นหาใดๆ ที่คุณให้แก่องค์กร Microsoft 365 Apps for enterprise ในขณะที่ใช้บริการเหล่านี้ไปยัง Microsoft Bing องค์กร Bing จะไม่ลิงก์การสอบถามเหล่านี้ไปถึงคุณ
 
