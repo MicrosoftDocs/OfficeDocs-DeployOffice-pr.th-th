@@ -13,12 +13,12 @@ ms.custom:
 - Ent_Office_Privacy
 description: ให้ข้อมูลผู้ดูแลระบบ Office เกี่ยวกับประสบการณ์ใช้งานที่เชื่อมต่อสำหรับเลือกเพิ่มเติม รวมถึงข้อกำหนดการใช้ที่นำไปใช้
 hideEdit: true
-ms.openlocfilehash: ed197ed1cc8dd3c19d10a227510fe687da54d9c7
-ms.sourcegitcommit: f7496035cde1b3a5a4efb9013fd30064fb0c9132
+ms.openlocfilehash: 942f32d7a8d177e6d74530a8382c145e94bec41a
+ms.sourcegitcommit: dee7b8706ba5a0e763052d2f2f79fb2d3d3a6907
 ms.translationtype: HT
 ms.contentlocale: th-TH
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "50597385"
+ms.lasthandoff: 03/16/2021
+ms.locfileid: "50826425"
 ---
 # <a name="overview-of-optional-connected-experiences-in-office"></a>ภาพรวมของประสบการณ์ใช้งานที่เชื่อมต่อสำหรับเลือกเพิ่มเติมใน Office
 
@@ -87,7 +87,7 @@ MERP เชื่อมต่อกับบริการ Watson.microsoft.com
 
 ### <a name="travel-time-in-up-next-in-outlook-for-ios"></a>เวลาเดินทางในรายการถัดไปใน Outlook สำหรับ iOS
 
-ใน Outlook สำหรับ iOS กิจกรรมถัดไปที่กำลังจะมาถึงของคุณจะถูกสรุปไว้ที่ด้านบนสุดของกล่องอีเมลขาเข้าในการ์ดที่ชื่อ [รายการถัดไป](https://www.osupportweb.com/a/outlook-mobile/?s=up-next&f=how-does-up-next-work) ประสบการณ์นี้จำเป็นต้องใช้บริการของ Apple ที่ชื่อ Apple Maps เพื่อแสดงเวลาเดินทางโดยประมาณ และจะใช้[ข้อตกลงการใช้งาน](https://www.apple.com/legal/internet-services/maps/)ของ Apple Maps และ[นโยบายความเป็นส่วนตัว](https://www.apple.com/legal/privacy)ของ Apple
+ใน Outlook สำหรับ iOS กิจกรรมถัดไปที่กำลังจะมาถึงของคุณจะถูกสรุปไว้ที่ด้านบนสุดของกล่องอีเมลขาเข้าในการ์ดที่ชื่อ [รายการถัดไป](https://support.microsoft.com/office/d316ba95-c0d8-4a6e-87a3-84dd17f3775e) ประสบการณ์นี้จำเป็นต้องใช้บริการของ Apple ที่ชื่อ Apple Maps เพื่อแสดงเวลาเดินทางโดยประมาณ และจะใช้[ข้อตกลงการใช้งาน](https://www.apple.com/legal/internet-services/maps/)ของ Apple Maps และ[นโยบายความเป็นส่วนตัว](https://www.apple.com/legal/privacy)ของ Apple
 
 ### <a name="weather-bar-in-outlook"></a>แถบสภาพอากาศใน Outlook
 
