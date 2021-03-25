@@ -13,12 +13,12 @@ ms.custom:
 - Ent_Office_Privacy
 description: ให้ข้อมูลผู้ดูแลระบบ Office เกี่ยวกับประสบการณ์ใช้งานที่เชื่อมต่อสำหรับเลือกเพิ่มเติม รวมถึงข้อกำหนดการใช้ที่นำไปใช้
 hideEdit: true
-ms.openlocfilehash: 942f32d7a8d177e6d74530a8382c145e94bec41a
-ms.sourcegitcommit: dee7b8706ba5a0e763052d2f2f79fb2d3d3a6907
+ms.openlocfilehash: d651fb94cb031a0fc1a154201e2875c28f979f2a
+ms.sourcegitcommit: 2c4bf05e77415559080766cc7d7f241e9f968108
 ms.translationtype: HT
 ms.contentlocale: th-TH
-ms.lasthandoff: 03/16/2021
-ms.locfileid: "50826425"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "51181750"
 ---
 # <a name="overview-of-optional-connected-experiences-in-office"></a>ภาพรวมของประสบการณ์ใช้งานที่เชื่อมต่อสำหรับเลือกเพิ่มเติมใน Office
 
@@ -76,7 +76,7 @@ MERP เชื่อมต่อกับบริการ Watson.microsoft.com
 
 > [!NOTE]
 > - ผู้ดูแลระบบในองค์กรของคุณอาจมี Add-in ให้คุณ ถึงแม้ว่าคุณไม่ได้เลือกใช้ Office Store
-> - ถ้าคุณเป็นผู้ดูแลระบบ สำหรับข้อมูลเพิ่มเติมเกี่ยวกับ Add-in ให้ดูส่วน "ประสบการณ์ใช้งานที่เชื่อมต่อสำหรับเลือกเพิ่มเติม" ใน [ความเป็นส่วนตัวและการรักษาความปลอดภัยสำหรับ Add-in ของ Office](https://docs.microsoft.com/office/dev/add-ins/concepts/privacy-and-security) และ [ความเป็นส่วนตัว สิทธิ์ และความปลอดภัยสำหรับ Add-in ของ Outlook](https://docs.microsoft.com/office/dev/add-ins/outlook/privacy-and-security)
+> - ถ้าคุณเป็นผู้ดูแลระบบ สำหรับข้อมูลเพิ่มเติมเกี่ยวกับ Add-in ให้ดูส่วน "ประสบการณ์ใช้งานที่เชื่อมต่อสำหรับเลือกเพิ่มเติม" ใน [ความเป็นส่วนตัวและการรักษาความปลอดภัยสำหรับ Add-in ของ Office](/office/dev/add-ins/concepts/privacy-and-security) และ [ความเป็นส่วนตัว สิทธิ์ และความปลอดภัยสำหรับ Add-in ของ Outlook](/office/dev/add-ins/outlook/privacy-and-security)
 
 ### <a name="research"></a>การค้นคว้า
 
@@ -91,7 +91,7 @@ MERP เชื่อมต่อกับบริการ Watson.microsoft.com
 
 ### <a name="weather-bar-in-outlook"></a>แถบสภาพอากาศใน Outlook
 
-[แถบสภาพอากาศ](https://support.microsoft.com/office/d11b7532-7c58-489e-8103-5cc5d727b06b)ใน Outlook จะแสดงผลการพยากรณ์อากาศสำหรับตำแหน่งที่ตั้งทางภูมิศาสตร์ที่คุณเลือก ระหว่างการใช้งาน แถบสภาพอากาศใน Outlook เชื่อมต่อกับ MSN พยากรณ์อากาศ ตามค่าเริ่มต้น Microsoft เป็นเจ้าของ MSN และข้อกำหนด [ข้อตกลงการใช้บริการของ Microsoft](https://www.microsoft.com/servicesagreement) และ [คำชี้แจงสิทธิ์ส่วนบุคคลของ Microsoft](https://privacy.microsoft.com/) จะมีการนำไปใช้ เมื่อคุณใช้แถบสภาพอากาศด้วย MSN พยากรณ์อากาศ Microsoft จะไม่ตรวจพบตำแหน่งที่ตั้งของคุณ และเมืองที่คุณเลือกให้แสดงผลจะไม่สามารถลิงก์ไปหาคุณได้ คุณอาจ[เปลี่ยนการตั้งค่าเริ่มต้นนี้](https://docs.microsoft.com/office/client-developer/outlook/weather/extending-the-weather-bar-in-outlook)ได้เพื่อเชื่อมต่อกับผู้ให้บริการพยากรณ์อากาศรายอื่น ถ้าคุณตัดสินใจว่าจะใช้บริการจากผู้ให้บริการพยากรณ์อากาศรายอื่น คุณจะต้องตรวจสอบคำชี้แจงสิทธิ์ส่วนบุคคลและเงื่อนไขการอนุญาตให้ใช้สิทธิของผู้ให้บริการแต่ละราย เพื่อให้ทราบว่าข้อกำหนดใดมีการนำไปใช้
+[แถบสภาพอากาศ](https://support.microsoft.com/office/d11b7532-7c58-489e-8103-5cc5d727b06b)ใน Outlook จะแสดงผลการพยากรณ์อากาศสำหรับตำแหน่งที่ตั้งทางภูมิศาสตร์ที่คุณเลือก ระหว่างการใช้งาน แถบสภาพอากาศใน Outlook เชื่อมต่อกับ MSN พยากรณ์อากาศ ตามค่าเริ่มต้น Microsoft เป็นเจ้าของ MSN และข้อกำหนด [ข้อตกลงการใช้บริการของ Microsoft](https://www.microsoft.com/servicesagreement) และ [คำชี้แจงสิทธิ์ส่วนบุคคลของ Microsoft](https://privacy.microsoft.com/) จะมีการนำไปใช้ เมื่อคุณใช้แถบสภาพอากาศด้วย MSN พยากรณ์อากาศ Microsoft จะไม่ตรวจพบตำแหน่งที่ตั้งของคุณ และเมืองที่คุณเลือกให้แสดงผลจะไม่สามารถลิงก์ไปหาคุณได้ คุณอาจ[เปลี่ยนการตั้งค่าเริ่มต้นนี้](/office/client-developer/outlook/weather/extending-the-weather-bar-in-outlook)ได้เพื่อเชื่อมต่อกับผู้ให้บริการพยากรณ์อากาศรายอื่น ถ้าคุณตัดสินใจว่าจะใช้บริการจากผู้ให้บริการพยากรณ์อากาศรายอื่น คุณจะต้องตรวจสอบคำชี้แจงสิทธิ์ส่วนบุคคลและเงื่อนไขการอนุญาตให้ใช้สิทธิของผู้ให้บริการแต่ละราย เพื่อให้ทราบว่าข้อกำหนดใดมีการนำไปใช้
 
 ## <a name="how-to-determine-if-your-admin-has-given-you-the-ability-to-use-optional-connected-experiences"></a>วิธีค้นหาว่าผู้ดูแลระบบของคุณได้ให้ความสามารถแก่คุณในการใช้ประสบการณ์ใช้งานที่เชื่อมต่อสำหรับเลือกเพิ่มเติมหรือไม่
 
