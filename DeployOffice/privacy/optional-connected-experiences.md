@@ -13,12 +13,12 @@ ms.custom:
 - Ent_Office_Privacy
 description: ให้ข้อมูลผู้ดูแลระบบ Office เกี่ยวกับประสบการณ์ใช้งานที่เชื่อมต่อสำหรับเลือกเพิ่มเติม รวมถึงข้อกำหนดการใช้ที่นำไปใช้
 hideEdit: true
-ms.openlocfilehash: d651fb94cb031a0fc1a154201e2875c28f979f2a
-ms.sourcegitcommit: 2c4bf05e77415559080766cc7d7f241e9f968108
+ms.openlocfilehash: 8a5f236c3dbb2cb3bb61a9a987f764880987a189
+ms.sourcegitcommit: 54b9d411bb6a021fb6db8df4acfb28287693c84c
 ms.translationtype: HT
 ms.contentlocale: th-TH
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "51181750"
+ms.lasthandoff: 04/21/2021
+ms.locfileid: "51914964"
 ---
 # <a name="overview-of-optional-connected-experiences-in-office"></a>ภาพรวมของประสบการณ์ใช้งานที่เชื่อมต่อสำหรับเลือกเพิ่มเติมใน Office
 
@@ -43,6 +43,7 @@ Bing ขับเคลื่อนประสบการณ์ต่อไป
 - **คำแนะนำตำแหน่งที่ตั้ง:**   เมื่อคุณเพิ่มสถานที่สาธารณะพร้อมที่อยู่ในรายการปฏิทิน ที่อยู่แบบเต็มจะรวมอยู่ในเขตข้อมูลตำแหน่งที่ตั้ง
 - **ปฏิทินที่น่าสนใจ:**   คุณสามารถ [สมัครใช้งาน](https://support.microsoft.com/office/cff1429c-5af6-41ec-a5b4-74f2c278e98c)ปฏิทินเกี่ยวกับทีมกีฬาหรือรายการทีวีที่คุณชื่นชอบ
 - **เวลาเดินทางในรายการถัดไป:** กิจกรรมถัดไปที่กำลังจะมาถึงของคุณจะถูกสรุปไว้ที่ด้านบนสุดของกล่องอีเมลขาเข้าในการ์ดที่ชื่อ [รายการถัดไป](https://support.microsoft.com/office/d316ba95-c0d8-4a6e-87a3-84dd17f3775e) ใน Outlook สำหรับ Android ประสบการณ์นี้จำเป็นต้องใช้ Bing Maps เพื่อแสดงเวลาเดินทางโดยประมาณ
+- **สภาพอากาศในปฏิทิน:** [การพยากรณ์อากาศ](https://support.microsoft.com/office/04c48f70-4780-47d6-bc2e-d77d2f4c4ef2)สําหรับตําแหน่งที่ตั้งปัจจุบันของคุณจะปรากฏที่ด้านบนของหน้าจอปฏิทิน
 
  เรามอบสิทธิการใช้งานประสบการณ์เหล่านี้ที่อาศัย Bing ให้แก่คุณภายใต้ข้อกำหนด[ข้อตกลงการใช้บริการของ Microsoft](https://www.microsoft.com/servicesagreement) และครอบคลุมโดย[นโยบายความเป็นส่วนตัว](https://privacy.microsoft.com/) เราจะส่งการสอบถามการค้นหาใดๆ ที่คุณให้แก่องค์กร Microsoft 365 Apps for enterprise ในขณะที่ใช้บริการเหล่านี้ไปยัง Microsoft Bing องค์กร Bing จะไม่ลิงก์การสอบถามเหล่านี้ไปถึงคุณ
 
